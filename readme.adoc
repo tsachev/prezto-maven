@@ -1,0 +1,7 @@
+= Maven
+
+== Aliases
+
+- `mci`='mvn clean install'
+- `mcv`='mvn clean verify'
+
